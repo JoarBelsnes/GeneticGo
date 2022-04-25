@@ -1,0 +1,6 @@
+github.com/handcraftsman/File v0.0.0-20120331083604-3890630b8f98 h1:kAmbvz3oz76ZFGQvfYH0eV/oFJRmwNVPPoFffSWaFxw=
+github.com/handcraftsman/File v0.0.0-20120331083604-3890630b8f98/go.mod h1:AEBlLxwipXor9gsxI7L9e1Q6g0koOIavFX5DQnhxhXU=
+github.com/handcraftsman/Interpreter v0.0.0-20120504061952-9abc12d3675d h1:11GUTUlMID9GC7YIdBpczJ+VisAocY1oIRTu4vq5zpc=
+github.com/handcraftsman/Interpreter v0.0.0-20120504061952-9abc12d3675d/go.mod h1:Mrj5fM6FCz8tuM5kDLt4J7dREzN+mRlkSD32HO0l+a4=
+github.com/handcraftsman/Random v0.0.0-20120511065746-0b5bbc5c332b h1:Pe2F3XM10eFpT3vwtotV3zNE5IUuUf/TACraDMUr/Bs=
+github.com/handcraftsman/Random v0.0.0-20120511065746-0b5bbc5c332b/go.mod h1:0p1Sq7KQk4ljvZbnPmzsN5pSPNIwk3p6iLGonKCXL64=
